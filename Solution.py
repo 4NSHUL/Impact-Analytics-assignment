@@ -37,4 +37,8 @@ def count_ways(n):
     return final_answer
 
 print(count_ways(10))
+print(count_ways(5))
 
+# output
+# 0.2451171875/773
+# 0.09375/29
