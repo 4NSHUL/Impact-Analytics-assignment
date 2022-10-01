@@ -1,5 +1,5 @@
 # Impact-Analytics-assignment
-This repository contains the problem and its solution for assignment shared by Impact Analytics.
+This repository contains the problem and its solution of Impact Analytics assignment.
  Question
 
 In a university, your attendance determines whether you will be allowed to attend your graduation ceremony.
